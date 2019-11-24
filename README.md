@@ -2,11 +2,11 @@
 
 ### Update your Raspberry Pi With Raspbian:
 
-1. Update the repository package list: 
+1. Update: 
 
     `sudo apt update`
 
-2. Run the upgrade command: 
+2. Upgrade: 
 
     `sudo apt dist-upgrade`
 
@@ -19,6 +19,7 @@
 5. Reboot:
 
     `sudo reboot`
+
 
 ### Update your Controller:
 1. Make a backup for your Unifi Controller. 
